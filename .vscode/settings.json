@@ -1,3 +1,5 @@
 {
-  "cSpell.words": ["Rocketseat"]
+  "cSpell.words": ["biomejs", "Rocketseat"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "biomejs.biome"
 }
